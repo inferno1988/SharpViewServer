@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpViewServer", "SharpViewServer\SharpViewServer.csproj", "{3F745C50-64F7-4F80-9D81-E594844CBE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewServerSample", "ViewServerSample\ViewServerSample.csproj", "{3D044023-05AD-4E59-B041-BCA7F38B0B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D044023-05AD-4E59-B041-BCA7F38B0B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D044023-05AD-4E59-B041-BCA7F38B0B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D044023-05AD-4E59-B041-BCA7F38B0B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D044023-05AD-4E59-B041-BCA7F38B0B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F745C50-64F7-4F80-9D81-E594844CBE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F745C50-64F7-4F80-9D81-E594844CBE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F745C50-64F7-4F80-9D81-E594844CBE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F745C50-64F7-4F80-9D81-E594844CBE28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
